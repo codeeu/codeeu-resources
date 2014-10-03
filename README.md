@@ -16,9 +16,10 @@ European Commission's Press Release in 22 languages:
 
 - [Save the date: EU Code Week 11-17 October 2014. Bring your ideas to life with #coding](http://europa.eu/rapid/press-release_IP-14-652_en.htm)
 
-Promotional video:
+Promotional videos:
 
 - [CODING IS FUN: join @CodeWeekEU](https://www.youtube.com/watch?v=TNwE3FA4pdI)
+- [Learn how to code with EU Code Week TV spot](https://www.youtube.com/watch?v=ibutkt23h6A)
 
 
 
