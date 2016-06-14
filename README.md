@@ -16,10 +16,12 @@ European Commission's Press Releases in 22 languages:
 
 Initial press release:
 
+- [Code Week EU 2016 – Skill up for the digital world with #codeEU!] (https://ec.europa.eu/digital-single-market/en/news/code-week-eu-2016-skill-digital-world-codeeu)
 - [Europe Code Week Returns from October 11 to 17, 2014](https://github.com/codeeu/codeeu-resources/blob/master/Europe_Code_Week_2014-press_release_ENG.md)
 
 Promotional videos:
 
+- [EU Code Week 2016 - Which project you are most proud of?] (https://youtu.be/809D1BKVdIg)
 - [CODING IS FUN: join @CodeWeekEU](https://www.youtube.com/watch?v=TNwE3FA4pdI)
 - [Learn how to code with EU Code Week TV spot](https://www.youtube.com/watch?v=ibutkt23h6A)
 
